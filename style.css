@@ -1,0 +1,46 @@
+.header  {
+position: absolute;
+width: 1020px;
+height: 89px;
+left: 0px;
+top: 0px;
+background: #2D303A;
+}
+.a{
+    position:;
+
+}
+.headr__navigation{
+    flex-wrap: wrap;
+}
+.telefon{
+position: absolute;
+width: 1020px;
+height: 594px;
+left: 0px;
+top: 95px;
+background: #F06C64;
+}
+.promo{
+position: absolute;
+width: 1020px;
+height: 494px;
+left: 0px;
+top: 695px;
+background: #F2F2F2;
+}
+.portfolio {
+position: absolute;
+width: 1020px;
+height: 864px;
+left: 0px;
+top: 1195px;
+background: #2D303A;}
+
+.footer{
+position: absolute;
+width: 1020px;
+height: 76px;
+left: 0px;
+top:2000px;
+background: #2D303A;}
