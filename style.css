@@ -6,13 +6,33 @@ left: 0px;
 top: 0px;
 background: #2D303A;
 }
-.a{
-    position:;
+.logo{
+    position: absolute;
+    margin-left:40px;
+    margin-bottom:35px;
+    margin-top:29px;
+}
+.navigation{
+   position: absolute;
+   left: 605px;
+   top: 42px;
+   family-name:
+}
+ .headr__navigation{
+    position: absolute;
+    margin-right:40px;
+    margin-bottom:33px;
+    margin-top:42px;
+    margin-left:605px;
+    color: #fcfcfc;
+ }
 
+.navigation-1
+{display: inline-block; /*располагаем блоки в ряд по горизонтали*/
+    margin-right:auto; /*убираем правый отступ между блоками*/
+   
 }
-.headr__navigation{
-    flex-wrap: wrap;
-}
+
 .telefon{
 position: absolute;
 width: 1020px;
@@ -20,6 +40,105 @@ height: 594px;
 left: 0px;
 top: 95px;
 background: #F06C64;
+}
+.logo1{
+  position: absolute;
+  height: 458px;
+width: 216px;
+left:111.5px;
+top: 54px;
+border-radius: 0px;
+
+}
+.screen1{
+  position: absolute;
+left: 12.35%;
+right: 69.22%;
+top:119px;
+bottom: 73.51%;
+}
+.logo2{
+  position: absolute;
+  height: 458px;
+width: 216px;
+left:425px;
+top: 176px;
+border-radius: 0px;
+}
+.screen2{
+  position: absolute;
+left: 47.55%;
+right: 19.8%;
+top: 191px;
+bottom: 77.05%;
+
+}
+.vector1{
+  position: absolute;
+left: 202.5px;
+right: 41.43%;
+top: 89.98px;
+bottom: 91.05%;
+
+background: #ACACAC;
+}
+.vector11{
+  position: absolute;
+left: 218px;
+right: 49.09%;
+top: 73px;
+bottom: 95%;
+
+background: #EB5055;
+}
+
+.vector111{
+position: absolute;
+height: 16.4px;
+width: 16.4px;
+left: 212.7px;
+top: 474.4px;
+border-radius: 0px;
+}
+.vector1111{
+  position: absolute;
+left: 199.31%;
+right: 40.31%;
+top: 461.03%;
+bottom: 1.83%;
+background: #FAFAFA;
+}
+.vector2{
+  position: absolute;
+left: 860.25px;
+
+top: 276px;
+bottom: 306.99%;
+}
+.vector22{
+  position: absolute;
+  left: 842.018310546875px;
+  top: 267.498046875px;
+}
+.vector222
+{
+ position: absolute;
+left: 446px;
+top: 276.7880859375px;
+}
+.arrow-left{
+  position: absolute;
+left: 40px;
+
+top: 283px;
+}
+.arrow-right{
+
+ position: absolute;
+left: 964px;
+
+top: 283px;
+
 }
 .promo{
 position: absolute;
