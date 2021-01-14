@@ -19,12 +19,20 @@ background: #2D303A;
    family-name:
 }
  .headr__navigation{
-    position: absolute;
-    margin-right:40px;
-    margin-bottom:33px;
-    margin-top:42px;
-    margin-left:605px;
-    color: #fcfcfc;
+  position: absolute;
+width: 375px;
+height: 14px;
+left: 605px;
+top: 42px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+letter-spacing: -0.035em;
+color: #ffffff;
  }
 
 .navigation-1
@@ -148,6 +156,27 @@ left: 0px;
 top: 695px;
 background: #F2F2F2;
 }
+.OurServices{
+position: absolute;
+left: 40px;
+top: 59px;
+color: #666D89;
+}
+.Fusce{
+position: absolute;
+left: 40px;
+top: 113px;
+color: #666D89;
+}
+.text{
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+  height: 100%;
+color: #666D89;
+    
+}
 .portfolio {
 position: absolute;
 width: 1020px;
@@ -156,10 +185,167 @@ left: 0px;
 top: 1195px;
 background: #2D303A;}
 
+.portfolio1{
+  position: absolute;
+width: 130px;
+height: 40px;
+left: 40px;
+top: 59px;
+font-family:name;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 36px;
+color: #666D89;
+
+}
+
+.strategies__description{
+  position: absolute;
+left: 40px;
+top: 112.87px;
+
+/* section-description */
+
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+color: #767E9E;
+}
+.tag1{
+  position: absolute;
+  left: 41px;
+  top: 160px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  color: #767E9E;
+}
+
+.tag2{
+  position: absolute;
+  left: 79px;
+  top: 160px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  color: #767E9E;
+}
+.tag3{
+  position: absolute;
+  left: 168px;
+  top: 160px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  color: #767E9E;
+}
+.tag4{
+  position: absolute;
+  left: 273px;
+  top: 160px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  color: #767E9E;
+}
 .footer{
 position: absolute;
 width: 1020px;
 height: 76px;
 left: 0px;
 top:2000px;
-background: #2D303A;}
+background: #2D303A;;}
+
+.end{
+  position: absolute;
+width: 118px;
+height: 17px;
+left: 40px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 13px;
+line-height: 18px;
+
+display: flex;
+align-items: center;
+
+color: #666D89;
+}
+.ico_ico_letter1{
+position: absolute;
+height: 14.000001907348633px;
+width: 8px;
+left: 838px;
+top: 31px;
+border-radius: 0px;
+}
+.ico_ico_letter2{
+  position: absolute;
+  height: 14.000001907348633px;
+  width: 14px;
+  left: 875px;
+  top: 31px;
+  border-radius: 0px;
+}
+.ico_ico_letter3{
+  position: absolute;
+  height: 14.000001907348633px;
+  width: 12px;
+  left: 915px;
+  top: 31px;
+  border-radius: 0px;
+}
+.ico_ico_letter4{
+  position: absolute;
+  height: 14.000001907348633px;
+  width: 14px;
+  left: 955px;
+  top: 31px;
+  border-radius: 0px;
+}
+.ico1{
+  position: absolute;
+  height: 31.99974925326046px;
+width: 31.999746958033484px;
+left: 826px;
+top: 22px;
+border-radius: 0px;
+}
+.ico2{
+  position: absolute;
+  height: 31.99974925326046px;
+width: 31.999746958033484px;
+left: 866px;
+top:22px;
+border-radius: 0px;
+}
+.ico3{
+  position: absolute;
+  height: 31.99974925326046px;
+width: 31.999746958033484px;
+left: 906px;
+top:22px;
+border-radius: 0px;
+}
+.ico4{
+  position: absolute;
+  height: 31.99974925326046px;
+width: 31.999746958033484px;
+left: 946px;
+top:22px;
+border-radius: 0px;
+}
